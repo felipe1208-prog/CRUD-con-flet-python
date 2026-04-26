@@ -1,13 +1,13 @@
-INSTRUCCIONES DE CLONACIÓN!
+*INSTRUCCIONES DE CLONACIÓN!*
 
-Al clonar el repositorio con:
+1. Al clonar el repositorio con:
 git clone [url]
-luego de eso hacer entorno virtual.
 
+2. Luego de eso, hacer entorno virtual:
 python -m venv venv
 
-Y activarlo:
+3. Y activarlo:
 .\venv\Scripts\activate
 
-utilizar este comando para instalar flet correctamente:
+4. Utilizar este comando para instalar flet y otras dependencias correctamente:
 pip install -r requirements.txt
